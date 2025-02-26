@@ -1,0 +1,11 @@
+print("--- WELCOME TO TIP CALCULATOR ---\n")
+Enter total bill amount
+Enter tip percentage
+
+tip / 100
+total * full
+total_bill = total + bill
+
+Show calculator summary
+
+I'm really not great at this whole pseudocode thing
